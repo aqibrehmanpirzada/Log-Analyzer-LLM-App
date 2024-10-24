@@ -1,5 +1,3 @@
----
-
 # 🚀 Log Analyzer Chatbot
 
 Welcome to the **Log Analyzer Chatbot** repository! This project leverages **Streamlit** to provide a smart and interactive chatbot for analyzing logs, extracting insights, and interpreting monitoring dashboards. It aims to simplify the process of log analysis and help users make data-driven decisions through an intuitive interface. 
@@ -132,6 +130,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 🌟 **Enjoy using the Log Analyzer Chatbot?** Don't forget to give it a ⭐ star on [GitHub](https://github.com/aqibrehmanpirzada/Log-Analyzer-LLM-App/)! Happy analyzing! 😊
 
----
-
-With this version, the `README.md` is not only informative but also more engaging and visually appealing. It includes icons and formatting that improve readability and user engagement.
