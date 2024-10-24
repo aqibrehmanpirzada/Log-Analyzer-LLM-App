@@ -10,6 +10,7 @@ The Log Analyzer Chatbot is divided into three powerful modules:
 1. **Log File Analysis**: Upload and analyze logs effortlessly.
 2. **Retrieval-Augmented Generation (RAG)**: Get precise answers using the power of AI and vector databases.
 3. **Multimodal Dashboard Analysis**: Analyze monitoring dashboards through images and extract critical insights.
+![Alt Text](smart_log.png)
 
 ---
 
@@ -27,9 +28,9 @@ The Log Analyzer Chatbot is divided into three powerful modules:
 
 ---
 
-## ✨ Modules
+## ✨ Components
 
-### 🔧 Module 1: Log File Analysis
+### 🔧 Component 1: Log File Analysis
 Effortlessly upload log files, and let the **Log Analyzer** do the rest! This module will:
 - Detect all exceptions in the log file.
 - Identify root causes of issues.
@@ -37,14 +38,14 @@ Effortlessly upload log files, and let the **Log Analyzer** do the rest! This mo
   
 Perfect for those who want quick insights from their logs without any hassle!
 
-### 💡 Module 2: Retrieval-Augmented Generation
+### 💡 Component 2: Retrieval-Augmented Generation
 Harness the power of **RAG** with this module:
 - A vector database is built using Wikipedia, enabling precise searches.
 - Users can enter queries, and the app will find the most accurate results from the database.
   
 Whether you need quick information or deep insights, the RAG-based chatbot has you covered.
 
-### 🖼️ Module 3: Multimodal Dashboard Analysis
+### 🖼️ Component 3: Multimodal Dashboard Analysis
 Take advantage of **image-based analysis** with this module:
 - Upload images of monitoring dashboards.
 - The app analyzes the visual data and highlights key information.
