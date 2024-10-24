@@ -1,4 +1,4 @@
-# 🚀 Log Analyzer App
+# 🚀 Log-Analyzer-LLM-App
 
 Welcome to the **Log Analyzer App** repository! This project leverages **Streamlit** to provide a smart and interactive chatbot for analyzing logs, extracting insights, and interpreting monitoring dashboards. It aims to simplify the process of log analysis and help users make data-driven decisions through an intuitive interface. 
 
