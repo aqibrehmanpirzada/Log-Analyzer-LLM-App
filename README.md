@@ -1,6 +1,6 @@
-# 🚀 Log Analyzer Chatbot
+# 🚀 Log Analyzer App
 
-Welcome to the **Log Analyzer Chatbot** repository! This project leverages **Streamlit** to provide a smart and interactive chatbot for analyzing logs, extracting insights, and interpreting monitoring dashboards. It aims to simplify the process of log analysis and help users make data-driven decisions through an intuitive interface. 
+Welcome to the **Log Analyzer App** repository! This project leverages **Streamlit** to provide a smart and interactive chatbot for analyzing logs, extracting insights, and interpreting monitoring dashboards. It aims to simplify the process of log analysis and help users make data-driven decisions through an intuitive interface. 
 
 ## 🔍 Overview
 
@@ -96,7 +96,7 @@ Follow these steps to set up the Log Analyzer Chatbot on your local machine:
 Start the Streamlit app by running:
    ```bash
    cd ai_apps/
-   streamlit run Home.py
+   streamlit run .\Home.py
    ```
 
 This will open the app in your default web browser. Navigate through the available modules:
